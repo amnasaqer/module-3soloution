@@ -7,7 +7,7 @@ body {
 /** HEADER **/
 
 #header-nav {
-  background-color: black;
+  background-color: blue;
   border-radius: 0;
   border: 0;
 }
@@ -36,7 +36,7 @@ body {
 }
 
 .navbar-brand h1 {
-  color: Pink;
+  color: White;
   font-family: 'Times New Roman', cursive;
   font-size: 2em;
   
