@@ -7,7 +7,7 @@ body {
 /** HEADER **/
 
 #header-nav {
-  background-color: Black;
+  background-color: black;
   border-radius: 0;
   border: 0;
 }
@@ -61,7 +61,7 @@ body {
 }
 
 #nav-list a:hover {
-  color: white;
+  color: black;
   background-color: Pink;
 }
 
